@@ -1,0 +1,22 @@
+.main-frame{
+    display: flex;
+    height: 100vh;
+    justify-content: space-around;
+    align-items: center;
+    flex-direction: column;
+}
+
+.container {
+    min-width: 400px;
+    min-height: 600px;
+    background-color: rgb(207, 207, 207);
+    border-radius: 1rem;
+    border-style: solid;
+    border-width: 6px;
+    border-color: black;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
